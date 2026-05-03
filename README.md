@@ -387,7 +387,7 @@ For more FAQs, visit: https://business.jhattse.com/faq
 - 🐦 Twitter - https://twitter.com/jhattse
 - 💼 LinkedIn - https://linkedin.com/company/jhattse
 - 📸 Instagram - https://instagram.com/jhattse
-- 🎥 YouTube - https://youtube.com/jhattse
+- 🎥 YouTube - https://www.youtube.com/@jhattse
 
 ---
 
