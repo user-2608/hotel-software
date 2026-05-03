@@ -253,16 +253,12 @@ Whether you're managing a boutique hotel, mid-range property, or luxury establis
 ### **📞 Get in Touch**
 
 **Phone/WhatsApp:**
-- **📱 9634410412**
-- **📱 7310722298**
-
-**Email:**
-- 📧 support@jhattse.com
-- 📧 sales@jhattse.com
+- **📱 +91 9634410412**
+- **📱 +91 7310722298**
 
 **Website:**
-- 🌐 [Jhattse Business](https://business.jhattse.com)
-- 🌐 [Hotel Management Software](https://business.jhattse.com/products/hotel-management-software)
+- 🌐 https://business.jhattse.com
+- 🌐 https://business.jhattse.com/products/hotel-management-software
 
 **Business Hours:**
 - Monday - Friday: 9:00 AM - 6:00 PM IST
@@ -282,11 +278,13 @@ Whether you're managing a boutique hotel, mid-range property, or luxury establis
 
 ### **Key Resources**
 
-- **[User Manual](https://docs.jhattse.com)** - Comprehensive guide for all features
-- **[API Documentation](https://docs.jhattse.com/api)** - Technical integration guide
-- **[Video Tutorials](https://www.youtube.com/jhattse)** - Step-by-step video guides
-- **[FAQ](https://business.jhattse.com/faq)** - Common questions answered
-- **[Blog](https://business.jhattse.com/blog)** - Hotel management tips and insights
+- **User Manual** - Comprehensive guide for all features
+- **API Documentation** - Technical integration guide
+- **Video Tutorials** - Step-by-step video guides
+- **FAQ** - Common questions answered
+- **Blog** - Hotel management tips and insights
+
+*For detailed documentation, visit https://business.jhattse.com/support*
 
 ---
 
@@ -328,7 +326,7 @@ No credit card required. Full access to all features.
 
 This software is proprietary and licensed to authorized users only. Unauthorized reproduction, distribution, or use is prohibited.
 
-For licensing inquiries, contact: **sales@jhattse.com**
+For licensing inquiries, contact: sales@jhattse.com
 
 ---
 
@@ -378,18 +376,18 @@ A: We follow PCI-DSS standards and GDPR compliance with 256-bit encryption.
 **Q: Do you provide training?**
 A: Yes! We offer comprehensive onboarding, video tutorials, and 24/7 support.
 
-For more FAQs, visit: **[business.jhattse.com/faq](https://business.jhattse.com/faq)**
+For more FAQs, visit: https://business.jhattse.com/faq
 
 ---
 
 ## Connect With Us
 
 📱 **Follow our updates:**
-- 📘 [Facebook](https://facebook.com/jhattse)
-- 🐦 [Twitter](https://twitter.com/jhattse)
-- 💼 [LinkedIn](https://linkedin.com/company/jhattse)
-- 📸 [Instagram](https://instagram.com/jhattse)
-- 🎥 [YouTube](https://youtube.com/jhattse)
+- 📘 Facebook - https://facebook.com/jhattse
+- 🐦 Twitter - https://twitter.com/jhattse
+- 💼 LinkedIn - https://linkedin.com/company/jhattse
+- 📸 Instagram - https://instagram.com/jhattse
+- 🎥 YouTube - https://youtube.com/jhattse
 
 ---
 
